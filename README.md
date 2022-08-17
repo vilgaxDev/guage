@@ -1,6 +1,4 @@
-# d3-gauge
 
-Gauge visualization built on top of d3.
 
 [![demo](https://github.com/thlorenz/d3-gauge/raw/master/assets/gauge-demo.gif)]
 
