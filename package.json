@@ -1,0 +1,40 @@
+{
+  "name": "d3-gauge",
+  "version": "0.2.0",
+  "description": "Gauge visualization built on top of d3.",
+  "main": "d3-gauge",
+  "scripts": {
+    "demo": "echo 'Make sure to install browserify ;), Open: http://0.0.0.0:3000' && (cd example && beefy main.js 3000)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thlorenz/d3-gauge.git"
+  },
+  "homepage": "https://github.com/thlorenz/d3-gauge",
+  "dependencies": {
+    "d3": "~3.3.5",
+    "xtend": "~2.1.1"
+  },
+  "devDependencies": {
+    "beefy": "~0.4.3"
+  },
+  "keywords": [
+    "d3",
+    "gauge",
+    "svg",
+    "visualize",
+    "visualization"
+  ],
+  "author": {
+    "name": "Thorsten Lorenz",
+    "email": "thlorenz@gmx.de",
+    "url": "http://thlorenz.com"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/thlorenz/d3-gauge/blob/master/LICENSE"
+  },
+  "engine": {
+    "node": ">=0.6"
+  }
+}
